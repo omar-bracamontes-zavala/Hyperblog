@@ -2,6 +2,9 @@
 Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
 > El curso de Git y Github de Platzi es lo que me hacía falta para triplicar mi salario y mejorar mi curriculum para lanzarme al mundo como científico de datos.
 
+## Git pages
+https://omar-bracamontes-zavala.github.io/Hyperblog/blogpost.html
+
 ## En este curso vemos de todo
 * Todos los comandos de Git
 * El flujo de trabajo en Github
